@@ -130,12 +130,18 @@ The application will open in your browser.
 
 ## 👩‍💻 My Contribution
 
-This is a collaborative project, and I contributed to its development.
+**Role: Research & Machine Learning Developer**
 
-**My key contributions:**
-- [Add the modules and features you personally developed.]
-- [Describe your work on the research hub, machine learning, interface, or other components.]
-- [Mention your contributions to integration, testing, or debugging, if applicable.]
+My primary contribution to Cardio Vue AI was focused on the Research and Machine Learning components.
+
+- Developed research-related interfaces, including the Research Hub, researcher dashboard, dataset explorer and model laboratory.
+- Worked on literature review functionality, including research paper searching, filtering and database integration.
+- Contributed to the machine learning pipeline, including data preprocessing, feature engineering, handling class imbalance, model training and evaluation.
+- Worked on ML prediction functionality, including model loading, cardiovascular risk prediction and SHAP-based explainability.
+- Contributed to model performance analysis and visualizations using metrics such as accuracy, precision, recall, F1-score and ROC-AUC.
+- Worked on integrating research and ML components into the overall application.
+
+**Key Areas:** Python, Machine Learning, Scikit-learn, XGBoost, CatBoost, Streamlit, Pandas and SHAP.
 
 ## ⚠️ Disclaimer
 
